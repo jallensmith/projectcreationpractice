@@ -2,6 +2,8 @@
     * What problem do you have in your everyday life that you would like to solve? (what to eat for dinner, etc)
     * What are you passionate about?
 
+    examples: weather tracker, covid tracker, workout tracker, card game, job tracker
+
 ### Step 2: Working on the Overview
     * Brainstorm about what kind of features would like to have, write them down as you think of it, example:
 
@@ -44,11 +46,13 @@ Proposal for what the MVP will look like)
 
 
 ### Other Requirements
+HTML/CSS/JS Frontend that accesses data from an API or JSON asynchronously (using fetch())
 3 Event Listeners (DOMContentLoaded, Click, Change, Submit, etc.)
 Interactivity 
 30+ Commits to Github (git add -> git commit -m)
 Single HTML File
-Use json server OR API (JSON is a stretch goal)
+Use json server OR API (JSON is a stretch goal) - all interactions between the client and API should handled asynchornously and use JSON as the communication format
+Use functions!! 
 
 Notes: 
 Git is a tool in the environment to set up our repository and talk to remote repositories (i.e. git hub, git lab)
@@ -56,3 +60,6 @@ Git is a tool in the environment to set up our repository and talk to remote rep
 *Keep main branch for project review
 **stretch goals can go in branch
 ***new code
+
+#additional notes from joke tracker
+Having features as a title in readme

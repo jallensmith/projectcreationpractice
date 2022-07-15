@@ -1,6 +1,12 @@
 # Title of Project
-## Short Description of Project
+## Short Description of Project (Overview)
 This will be the overview of the project. You will detail what it is about and its purpose. 
+
+# Features
+* List out what it does specifically
+
+# MVP
+* what the full project would look like
 
 ### Requirements
 * Have json-server installed
