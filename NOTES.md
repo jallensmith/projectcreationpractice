@@ -52,3 +52,7 @@ Use json server OR API (JSON is a stretch goal)
 
 Notes: 
 Git is a tool in the environment to set up our repository and talk to remote repositories (i.e. git hub, git lab)
+
+*Keep main branch for project review
+**stretch goals can go in branch
+***new code
